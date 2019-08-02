@@ -1,0 +1,11 @@
+REMOVAL OF BLACK PARTS:
+
+https://docs.opencv.org/2.4/doc/tutorials/imgproc/shapedescriptors/find_contours/find_contours.html
+
+https://codereview.stackexchange.com/questions/132914/crop-black-border-of-image-using-numpy
+
+https://stackoverflow.com/questions/10632617/how-to-remove-black-part-from-the-image
+
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_thresholding/py_thresholding.html
+
+http://opencv.itseez.com/modules/imgproc/doc/structural_analysis_and_shape_descriptors.html?highlight=findcontour#boundingrect
