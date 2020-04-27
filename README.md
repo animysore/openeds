@@ -1,2 +1,2 @@
 # openeds
-Don' bother reading this. Trust me.
+Don't bother reading this. Trust me.
